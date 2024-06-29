@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 
 - [LinkedIn](https://www.linkedin.com/in/akhilesh-mauryaa)
 - [GitHub](https://github.com/AkhileshMauryaa)
+- - [Portfolio](https://linktr.ee/akhileshmaury)
 - Email: ankit15oct2000@gmail.com
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to connect! 😊
