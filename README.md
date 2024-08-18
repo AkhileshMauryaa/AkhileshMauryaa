@@ -41,10 +41,11 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 - **[McDonald's Market Segment Analysis](https://github.com/AkhileshMauryaa/MC_Donald-s_Market_Segment_Analysis)**: Performed market segmentation analysis for McDonald's to identify key customer groups and target segments.
 
 **5. Machine Learning Projects**
-- **[Credit Risk Modeling](#)**: Building models for predicting credit risk using machine learning.
-- **[Stock Price Prediction](#)**: Predictive model for forecasting stock prices using machine learning.
-- **[Predictive Maintenance](#)**: Predicting equipment failures to optimize maintenance schedules using machine learning.
-
+- **[Credit Card Approval](https://github.com/AkhileshMauryaa/credit_card_approvals_prediction)**: Developed a classification model to assess the likelihood of credit card approval based on applicant features, demonstrating expertise in binary classification problems. 
+- **[Online Payment Fraud Detection](https://github.com/AkhileshMauryaa/Online_Payment_fraud_detection-)**: Implemented a model to detect fraudulent online transactions, employing both classification techniques to identify fraud and regression methods to analyze transaction patterns.
+- **[Health Insurance Premium Prediction](https://github.com/AkhileshMauryaa/health_insurance_premium_prediction)**: Built a regression model to estimate health insurance premiums based on individual factors such as age, health history, and demographics, showcasing skills in predicting continuous values.
+- **[Telecom Customer Churn Prediction](https://github.com/AkhileshMauryaa/Telecom_customer_churn_prediction)**: Created a model to predict customer churn in the telecom sector, using classification for churn prediction and regression to analyze factors influencing customer retention.
+  
 **6. NLP Projects**
 - **[Sentiment Analysis of Product Reviews](#)**: Analyzing sentiment in product reviews using natural language processing (NLP).
 
