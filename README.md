@@ -20,22 +20,30 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0078D4?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## Projects
+### Projects
 
-- [Customer Churn Prediction](https://github.com/AkhileshMauryaa/Customer-Churn-Prediction)
-- [Sales Performance Dashboard](https://github.com/AkhileshMauryaa/Sales-Performance-Dashboard)
-- [Market Analysis Tool](https://github.com/AkhileshMauryaa/Market-Analysis-Tool)
-- [Credit Risk Modeling](#)
-- [E-commerce Sales Analysis](#)
-- [Sentiment Analysis of Product Reviews](#)
-- [Stock Price Prediction](#)
-- [HR Analytics Dashboard](#)
-- [Time Series Forecasting](#)
-- [Predictive Maintenance](#)
-- [Customer Segmentation](#)
-- [Marketing Campaign Analysis](#)
-- [Housing Price Prediction](#)
+**1. Excel Projects**
+- **[Sales Performance Dashboard](https://github.com/AkhileshMauryaa/Sales-Performance-Dashboard)**: A dashboard to visualize sales metrics and performance using Excel.
+- **[Market Analysis Tool](https://github.com/AkhileshMauryaa/Market-Analysis-Tool)**: A tool for analyzing market trends and patterns using Excel.
 
+**2. SQL Projects**
+- **[Customer Churn Prediction](https://github.com/AkhileshMauryaa/Customer-Churn-Prediction)**: An analysis to predict customer churn using SQL queries.
+
+**3. Power BI Projects**
+- **[HR Analytics Dashboard](#)**: An interactive dashboard to analyze HR metrics and trends using Power BI.
+
+**4. Python Data Analysis Projects**
+- **[Customer Segmentation](#)**: Segmenting customers based on behavior and characteristics using Python.
+- **[E-commerce Sales Analysis](#)**: Analyzing sales data for an e-commerce business using Python.
+- **[Marketing Campaign Analysis](#)**: Evaluating the effectiveness of marketing campaigns using Python.
+
+**5. Machine Learning Projects**
+- **[Credit Risk Modeling](#)**: Building models for predicting credit risk using machine learning.
+- **[Stock Price Prediction](#)**: Predictive model for forecasting stock prices using machine learning.
+- **[Predictive Maintenance](#)**: Predicting equipment failures to optimize maintenance schedules using machine learning.
+
+**6. NLP Projects**
+- **[Sentiment Analysis of Product Reviews](#)**: Analyzing sentiment in product reviews using natural language processing (NLP).
 
 ## 📫 Let's Connect!
 
