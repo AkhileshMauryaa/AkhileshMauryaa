@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 - **[Credit Card Financial Analysis](https://github.com/AkhileshMauryaa/Credit_card_financial_Dashboard.)**: Built a Power BI dashboard for financial insights on credit card usage patterns.
   
 **4. Python Data Analysis Projects**
-- **[Customer Segmentation](#)**: Segmenting customers based on behavior and characteristics using Python.
-- **[E-commerce Sales Analysis](#)**: Analyzing sales data for an e-commerce business using Python.
-- **[Marketing Campaign Analysis](#)**: Evaluating the effectiveness of marketing campaigns using Python.
+- **[Diwali Sales Analysis](https://github.com/AkhileshMauryaa/Data_Analysis_Projects_Python/blob/main/Diwali_Sales_Analysis.ipynb)**: Conducted a detailed analysis of Diwali sales data to uncover key trends and customer purchasing behavior.
+- **[Trending Market Campaign Analysis](https://github.com/AkhileshMauryaa/Trending_Market_Ab_testing_Projects)**: Analyzed the effectiveness of market campaigns using A/B testing to optimize marketing strategies.
+- **[McDonald's Market Segment Analysis](https://github.com/AkhileshMauryaa/MC_Donald-s_Market_Segment_Analysis)**: Performed market segmentation analysis for McDonald's to identify key customer groups and target segments.
 
 **5. Machine Learning Projects**
 - **[Credit Risk Modeling](#)**: Building models for predicting credit risk using machine learning.
