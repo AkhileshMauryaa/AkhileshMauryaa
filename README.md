@@ -31,8 +31,10 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 - **[Hotel Reservation Analysis](https://github.com/AkhileshMauryaa/SQL_data_analysis_projects/tree/main/Hotel%20Reservation%20Analysis%20with%20SQL)**: Analyzing hotel reservation data with SQL to understand booking trends and customer preferences.
 
 **3. Power BI Projects**
-- **[HR Analytics Dashboard](#)**: An interactive dashboard to analyze HR metrics and trends using Power BI.
-
+- **[Blink Sales Analysis](https://github.com/AkhileshMauryaa/blinkit_Power_BI_projects)**: Created a Power BI dashboard to visualize and track Blink product sales and trends.
+- **[YouTube Songs Analysis](https://github.com/AkhileshMauryaa/Youtube_songs_analysis_using_power_bI)**: Developed a Power BI dashboard to analyze YouTube song popularity and audience engagement.
+- **[Credit Card Financial Analysis](https://github.com/AkhileshMauryaa/Credit_card_financial_Dashboard.)**: Built a Power BI dashboard for financial insights on credit card usage patterns.
+  
 **4. Python Data Analysis Projects**
 - **[Customer Segmentation](#)**: Segmenting customers based on behavior and characteristics using Python.
 - **[E-commerce Sales Analysis](#)**: Analyzing sales data for an e-commerce business using Python.
