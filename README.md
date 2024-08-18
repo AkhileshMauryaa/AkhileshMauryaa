@@ -37,10 +37,10 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 - [Housing Price Prediction](#)
 
 
-## Let's Connect!
+## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/akhilesh-mauryaa)
-- [GitHub](https://github.com/AkhileshMauryaa)
-- Email: ankit15oct2000@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-mauryaa)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkhileshMauryaa)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankit15oct2000@gmail.com)
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to connect! 😊
