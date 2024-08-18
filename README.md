@@ -23,8 +23,7 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 ### Projects
 
 **1. Excel Projects**
-- **[Sales Performance Dashboard](https://github.com/AkhileshMauryaa/Sales-Performance-Dashboard)**: A dashboard to visualize sales metrics and performance using Excel.
-- **[Market Analysis Tool](https://github.com/AkhileshMauryaa/Market-Analysis-Tool)**: A tool for analyzing market trends and patterns using Excel.
+- **[Sales Performance Dashboard](https://github.com/AkhileshMauryaa/Excel_Projects)**: A dashboard to visualize sales metrics and performance using Excel.
 
 **2. SQL Projects**
 - **[Customer Churn Prediction](https://github.com/AkhileshMauryaa/Customer-Churn-Prediction)**: An analysis to predict customer churn using SQL queries.
