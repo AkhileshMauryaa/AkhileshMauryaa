@@ -26,7 +26,9 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 - **[Sales Performance Dashboard](https://github.com/AkhileshMauryaa/Excel_Projects)**: A dashboard to visualize sales metrics and performance using Excel.
 
 **2. SQL Projects**
-- **[Customer Churn Prediction](https://github.com/AkhileshMauryaa/Customer-Churn-Prediction)**: An analysis to predict customer churn using SQL queries.
+- **[Swiggy Food Restaurant Analysis](https://github.com/AkhileshMauryaa/SQL_data_analysis_projects/tree/main/Swiggy%20Food%20Restaurant%20Analysis%20Using%20SQL)**: Analyzing food restaurant data using SQL to derive insights on customer behavior and restaurant performance.
+- **[Walmart Sales Analysis](https://github.com/AkhileshMauryaa/SQL_data_analysis_projects/tree/main/Walmart%20Sales%20Analysis%20Using%20Sql)**: Analyzing sales data from Walmart using SQL to uncover trends and patterns.
+- **[Hotel Reservation Analysis](https://github.com/AkhileshMauryaa/SQL_data_analysis_projects/tree/main/Hotel%20Reservation%20Analysis%20with%20SQL)**: Analyzing hotel reservation data with SQL to understand booking trends and customer preferences.
 
 **3. Power BI Projects**
 - **[HR Analytics Dashboard](#)**: An interactive dashboard to analyze HR metrics and trends using Power BI.
