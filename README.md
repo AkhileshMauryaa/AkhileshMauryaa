@@ -1,6 +1,6 @@
 # Hi there, I'm Akhilesh Maurya! 👋
 
-Welcome to my GitHub profile! I'm a passionate data science professional with a solid background in Python, SQL, Power BI, and machine learning. I'm eager to leverage my skills to analyze intricate datasets and provide valuable insights that drive critical decisions for organizations.
+Welcome to my GitHub profile! I'm a passionate data science professional with a solid background in Python, SQL, Power BI, Excel and machine learning. I'm eager to leverage my skills to analyze intricate datasets and provide valuable insights that drive critical decisions for organizations.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkhileshMauryaa&color=blue)
 
@@ -19,6 +19,23 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0078D4?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+## Projects
+
+- [Customer Churn Prediction](https://github.com/AkhileshMauryaa/Customer-Churn-Prediction)
+- [Sales Performance Dashboard](https://github.com/AkhileshMauryaa/Sales-Performance-Dashboard)
+- [Market Analysis Tool](https://github.com/AkhileshMauryaa/Market-Analysis-Tool)
+- [Credit Risk Modeling](#)
+- [E-commerce Sales Analysis](#)
+- [Sentiment Analysis of Product Reviews](#)
+- [Stock Price Prediction](#)
+- [HR Analytics Dashboard](#)
+- [Time Series Forecasting](#)
+- [Predictive Maintenance](#)
+- [Customer Segmentation](#)
+- [Marketing Campaign Analysis](#)
+- [Housing Price Prediction](#)
+
 
 ## Let's Connect!
 
