@@ -45,9 +45,6 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 - **[Online Payment Fraud Detection](https://github.com/AkhileshMauryaa/Online_Payment_fraud_detection-)**: Implemented a model to detect fraudulent online transactions, employing both classification techniques to identify fraud and regression methods to analyze transaction patterns.
 - **[Health Insurance Premium Prediction](https://github.com/AkhileshMauryaa/health_insurance_premium_prediction)**: Built a regression model to estimate health insurance premiums based on individual factors such as age, health history, and demographics, showcasing skills in predicting continuous values.
 - **[Telecom Customer Churn Prediction](https://github.com/AkhileshMauryaa/Telecom_customer_churn_prediction)**: Created a model to predict customer churn in the telecom sector, using classification for churn prediction and regression to analyze factors influencing customer retention.
-  
-**6. NLP Projects**
-- **[Sentiment Analysis of Product Reviews](#)**: Analyzing sentiment in product reviews using natural language processing (NLP).
 
 ## 📫 Let's Connect!
 
