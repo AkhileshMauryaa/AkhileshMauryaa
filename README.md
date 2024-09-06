@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 - **[Hotel Reservation Analysis](https://github.com/AkhileshMauryaa/SQL_data_analysis_projects/tree/main/Hotel%20Reservation%20Analysis%20with%20SQL)**: Analyzing hotel reservation data with SQL to understand booking trends and customer preferences.
 
 **3. Power BI Projects**
-- **[Netflix's User Analysis](https://github.com/AkhileshMauryaa/blinkit_Power_BI_projects)**: Designed a Power BI dashboard to analyze Netflix user demographics, revenue distribution, and subscription trends, providing insights into user behavior and growth patterns.
+- **[Netflix's User Analysis](https://github.com/AkhileshMauryaa/Netflix_user_analysis_dashboard)**: Designed a Power BI dashboard to analyze Netflix user demographics, revenue distribution, and subscription trends, providing insights into user behavior and growth patterns.
 - **[Blinkit Sales Analysis](https://github.com/AkhileshMauryaa/blinkit_Power_BI_projects)**: Created a Power BI dashboard to visualize and track Blinkit product sales and trends.
 - **[YouTube Songs Analysis](https://github.com/AkhileshMauryaa/Youtube_songs_analysis_using_power_bI)**: Developed a Power BI dashboard to analyze YouTube song popularity and audience engagement.
 - **[Credit Card Financial Analysis](https://github.com/AkhileshMauryaa/Credit_card_financial_Dashboard.)**: Built a Power BI dashboard for financial insights on credit card usage patterns.
