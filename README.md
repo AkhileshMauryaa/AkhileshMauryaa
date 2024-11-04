@@ -1,6 +1,6 @@
 # Hi there, I'm Akhilesh Maurya! 👋
 
-Welcome to my GitHub profile! I'm a passionate data science professional with a solid background in Python, SQL, Power BI, Excel and machine learning. I'm eager to leverage my skills to analyze intricate datasets and provide valuable insights that drive critical decisions for organizations.
+Welcome to my GitHub profile! I'm a data science enthusiast with a solid foundation in Python, SQL, Power BI, Excel, machine learning, and deep learning. With hands-on experience in data analysis, I enjoy tackling complex datasets to uncover valuable insights that drive strategic decisions. I’m passionate about using data to solve real-world challenges, from predictive modeling to advanced data visualization.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkhileshMauryaa&color=blue)
 
