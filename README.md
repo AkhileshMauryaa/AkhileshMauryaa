@@ -13,15 +13,31 @@ Welcome to my GitHub profile! I'm a data science enthusiast with a solid foundat
 
 ## Skills  
 
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+### **Programming & Data Manipulation**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0078D4?style=for-the-badge&logo=machine-learning&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+
+### **Data Visualization**  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)  
+
+### **Machine Learning & AI**  
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-800080?style=for-the-badge&logo=ai&logoColor=white)  
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-800080?style=for-the-badge&logo=ai&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/-LangChain-00C853?style=for-the-badge&logo=chain&logoColor=white)  
+
+### **Big Data & Cloud Computing**  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFCC00?style=for-the-badge&logo=hugging-face&logoColor=black)  
+![FAISS](https://img.shields.io/badge/-FAISS-008080?style=for-the-badge&logo=faiss&logoColor=white)  
 
 ---
 
