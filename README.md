@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a data science enthusiast with a solid foundat
 
 ### **6. Generative AI Projects**  
 - **[Gemini Chatbot](https://github.com/AkhileshMauryaa/Gemini_Chatbot)**  
-- **[AI-Powered Q&A System (RAG)](https://github.com/AkhileshMauryaa/RAG_QA_System)**  
+- **[AI-Powered Q&A System (RAG)]([https://github.com/AkhileshMauryaa/RAG_QA_System](https://github.com/AkhileshMauryaa/RAG_PDF_QA_Chatbot))**  
 
 ---
 
